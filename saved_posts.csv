@@ -1,0 +1,61 @@
+saved_post_id,user_id,post_id,saved_at,category,is_favorite,last_accessed_at,notes
+1,8,17,2/21/2024 9:12,Business,TRUE,2/23/2024 6:12,Inspiring content
+2,51,10,2/7/2024 9:12,Entertainment,FALSE,2/23/2024 19:12,Inspiring content
+3,4,6,2/28/2024 12:44,Tech,TRUE,3/12/2024 10:44,Highly engaging
+4,25,24,2/26/2024 1:06,Tech,FALSE,3/1/2024 0:06,Trending post
+5,57,38,2/6/2024 15:23,Entertainment,FALSE,2/26/2024 21:23,Inspiring content
+6,14,41,2/5/2024 2:44,Entertainment,TRUE,2/17/2024 18:44,Important reference
+7,44,51,2/16/2024 4:34,Sports,TRUE,3/13/2024 16:34,Saved for later
+8,22,10,2/3/2024 21:49,Food,TRUE,2/12/2024 4:49,Inspiring content
+9,55,1,2/11/2024 14:21,Entertainment,TRUE,3/3/2024 6:21,Inspiring content
+10,2,32,2/13/2024 22:16,Travel,FALSE,3/5/2024 0:16,Inspiring content
+11,10,41,2/23/2024 13:50,Business,FALSE,3/12/2024 12:50,Saved for later
+12,32,56,2/18/2024 16:12,Sports,TRUE,3/4/2024 12:12,Highly engaging
+13,4,4,2/15/2024 14:48,Entertainment,TRUE,3/13/2024 18:48,Trending post
+14,29,40,2/8/2024 18:14,Sports,FALSE,3/9/2024 16:14,Important reference
+15,43,53,2/17/2024 0:01,Sports,TRUE,2/27/2024 7:01,Inspiring content
+16,36,26,2/21/2024 6:57,Health,TRUE,3/21/2024 15:57,Highly engaging
+17,50,15,2/15/2024 13:46,Business,FALSE,2/29/2024 15:46,Important reference
+18,59,49,2/25/2024 1:47,Education,TRUE,3/4/2024 11:47,Important reference
+19,15,19,2/24/2024 18:18,Education,TRUE,3/15/2024 1:18,Inspiring content
+20,18,56,2/7/2024 8:26,Food,TRUE,3/4/2024 16:26,Trending post
+21,57,2,2/4/2024 2:38,Sports,TRUE,2/12/2024 13:38,Trending post
+22,28,27,2/2/2024 23:40,Sports,FALSE,3/4/2024 14:40,Important reference
+23,16,30,2/28/2024 19:41,Entertainment,TRUE,3/8/2024 0:41,Inspiring content
+24,52,34,2/24/2024 11:53,Business,TRUE,3/4/2024 2:53,Trending post
+25,52,16,2/8/2024 5:07,Entertainment,FALSE,2/20/2024 4:07,Important reference
+26,34,51,2/27/2024 21:37,Tech,FALSE,3/23/2024 15:37,Inspiring content
+27,14,36,2/22/2024 8:33,Travel,TRUE,3/11/2024 6:33,Trending post
+28,7,36,2/2/2024 16:01,Food,TRUE,2/13/2024 6:01,Inspiring content
+29,60,48,2/11/2024 12:45,Tech,FALSE,2/16/2024 18:45,Inspiring content
+30,1,2,2/5/2024 20:43,Food,FALSE,2/23/2024 21:43,Highly engaging
+31,14,40,2/13/2024 9:26,Travel,FALSE,3/9/2024 7:26,Inspiring content
+32,51,25,2/5/2024 12:28,Entertainment,TRUE,2/13/2024 13:28,Inspiring content
+33,41,40,2/12/2024 10:00,Health,TRUE,2/21/2024 18:00,Trending post
+34,21,38,2/24/2024 19:12,Travel,TRUE,2/28/2024 22:12,Highly engaging
+35,24,31,2/19/2024 15:38,Education,TRUE,3/16/2024 6:38,Important reference
+36,7,17,2/17/2024 14:04,Tech,FALSE,3/11/2024 19:04,Important reference
+37,50,2,2/1/2024 23:58,Food,FALSE,2/19/2024 15:58,Highly engaging
+38,58,2,2/28/2024 11:24,Education,TRUE,3/2/2024 18:24,Important reference
+39,6,40,2/10/2024 18:00,Education,FALSE,2/25/2024 20:00,Inspiring content
+40,1,37,2/22/2024 19:17,Entertainment,FALSE,3/24/2024 10:17,Important reference
+41,38,50,2/24/2024 8:35,Health,FALSE,3/8/2024 17:35,Saved for later
+42,54,3,2/16/2024 18:16,Health,TRUE,3/18/2024 4:16,Inspiring content
+43,35,7,2/16/2024 5:44,Tech,FALSE,2/22/2024 18:44,Important reference
+44,9,13,2/21/2024 17:09,Business,TRUE,3/20/2024 6:09,Inspiring content
+45,20,54,2/21/2024 10:42,Sports,FALSE,2/25/2024 20:42,Saved for later
+46,12,56,2/20/2024 4:07,Sports,FALSE,3/7/2024 10:07,Highly engaging
+47,22,17,2/9/2024 23:40,Entertainment,TRUE,2/28/2024 22:40,Highly engaging
+48,21,10,2/21/2024 23:32,Education,TRUE,3/8/2024 4:32,Inspiring content
+49,55,15,2/15/2024 5:07,Sports,FALSE,3/15/2024 23:07,Important reference
+50,21,47,2/5/2024 1:16,Food,FALSE,2/20/2024 15:16,Inspiring content
+51,17,18,2/13/2024 15:59,Business,TRUE,2/26/2024 7:59,Highly engaging
+52,34,46,2/1/2024 21:47,Entertainment,TRUE,2/29/2024 0:47,Important reference
+53,45,28,2/12/2024 13:38,Education,TRUE,2/17/2024 13:38,Saved for later
+54,58,14,2/6/2024 9:49,Tech,TRUE,3/2/2024 1:49,Inspiring content
+55,53,18,2/15/2024 16:28,Health,FALSE,2/20/2024 0:28,Highly engaging
+56,38,5,2/15/2024 20:29,Food,TRUE,3/2/2024 19:29,Highly engaging
+57,49,41,2/12/2024 22:43,Sports,FALSE,3/8/2024 18:43,Highly engaging
+58,30,26,2/9/2024 16:01,Travel,FALSE,3/5/2024 5:01,Trending post
+59,58,39,2/27/2024 7:08,Business,TRUE,3/7/2024 10:08,Highly engaging
+60,15,17,2/15/2024 17:36,Sports,FALSE,2/21/2024 8:36,Trending post

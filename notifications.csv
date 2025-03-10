@@ -1,0 +1,61 @@
+notification_id,user_id,notification_content,created_at,status,notification_type
+1,30,System update available.,2/6/2024 23:26,dismissed,reminder
+2,54,You received a new friend request.,2/7/2024 22:36,dismissed,friend_request
+3,25,New follower alert!,2/2/2024 8:23,dismissed,system_update
+4,18,You have a new message.,2/1/2024 21:06,read,message
+5,4,Your friend request was accepted.,2/2/2024 22:10,dismissed,message
+6,59,Someone mentioned you in a post.,2/7/2024 21:15,unread,message
+7,7,Reminder: Your event starts in 1 hour.,2/5/2024 18:02,dismissed,system_update
+8,9,Your friend request was accepted.,2/6/2024 13:58,unread,reminder
+9,20,You have a new message.,2/8/2024 3:13,dismissed,reminder
+10,10,Your booking has been confirmed.,2/7/2024 5:22,dismissed,friend_request
+11,37,New comment on your post.,2/1/2024 12:28,dismissed,friend_request
+12,28,You have a new message.,2/2/2024 5:06,dismissed,reminder
+13,41,Someone mentioned you in a post.,2/1/2024 14:19,dismissed,message
+14,54,Your password was changed successfully.,2/1/2024 18:10,dismissed,system_update
+15,57,New like on your photo.,2/4/2024 1:16,dismissed,friend_request
+16,48,System update available.,2/5/2024 7:25,unread,message
+17,57,Reminder: Your event starts in 1 hour.,2/4/2024 10:28,dismissed,system_update
+18,43,Your password was changed successfully.,2/7/2024 16:43,unread,reminder
+19,59,System update available.,2/4/2024 3:21,dismissed,reminder
+20,18,You received a new friend request.,2/7/2024 14:51,read,message
+21,54,Update: Your subscription has been renewed.,2/8/2024 3:02,dismissed,message
+22,13,Your friend request was accepted.,2/6/2024 13:19,read,friend_request
+23,32,Reminder: Your event starts in 1 hour.,2/6/2024 14:51,dismissed,friend_request
+24,4,Your password was changed successfully.,2/2/2024 0:58,unread,message
+25,46,System update available.,2/5/2024 11:39,dismissed,friend_request
+26,53,Your password was changed successfully.,2/5/2024 7:49,dismissed,reminder
+27,43,Your friend request was accepted.,2/1/2024 17:40,read,message
+28,32,New follower alert!,2/1/2024 14:19,read,reminder
+29,36,New like on your photo.,2/4/2024 7:36,dismissed,friend_request
+30,53,New comment on your post.,2/7/2024 5:41,read,system_update
+31,24,Someone mentioned you in a post.,2/7/2024 22:03,unread,reminder
+32,38,New follower alert!,2/5/2024 23:27,dismissed,reminder
+33,44,Your password was changed successfully.,2/4/2024 9:34,read,system_update
+34,12,Security alert: New login detected.,2/5/2024 16:44,unread,reminder
+35,34,Your booking has been confirmed.,2/4/2024 1:06,unread,reminder
+36,4,Don't miss out on today's special offer!,2/7/2024 13:37,read,system_update
+37,27,Your booking has been confirmed.,2/7/2024 18:31,read,reminder
+38,46,Someone mentioned you in a post.,2/1/2024 10:09,dismissed,reminder
+39,7,Your booking has been confirmed.,2/7/2024 21:06,read,reminder
+40,56,You have a new message.,2/5/2024 23:54,dismissed,reminder
+41,12,Reminder: Your event starts in 1 hour.,2/7/2024 19:48,dismissed,friend_request
+42,4,Don't miss out on today's special offer!,2/6/2024 4:21,dismissed,system_update
+43,39,New like on your photo.,2/6/2024 23:37,read,message
+44,16,Your order has been shipped.,2/1/2024 10:23,dismissed,reminder
+45,39,Update: Your subscription has been renewed.,2/7/2024 13:55,unread,friend_request
+46,58,New comment on your post.,2/4/2024 19:16,unread,message
+47,43,Update: Your subscription has been renewed.,2/5/2024 12:55,dismissed,friend_request
+48,20,New like on your photo.,2/7/2024 1:28,read,message
+49,37,New follower alert!,2/3/2024 20:53,unread,message
+50,29,You have a new message.,2/6/2024 23:47,dismissed,system_update
+51,31,Someone mentioned you in a post.,2/4/2024 21:22,unread,friend_request
+52,9,Update: Your subscription has been renewed.,2/1/2024 21:40,read,message
+53,14,Someone mentioned you in a post.,2/7/2024 0:15,unread,reminder
+54,53,You received a new friend request.,2/5/2024 19:22,dismissed,system_update
+55,8,Your friend request was accepted.,2/4/2024 22:35,dismissed,system_update
+56,17,You have a new message.,2/6/2024 18:53,unread,reminder
+57,22,System update available.,2/3/2024 9:05,unread,reminder
+58,29,New comment on your post.,2/7/2024 11:43,unread,message
+59,17,Your password was changed successfully.,2/6/2024 22:47,unread,system_update
+60,7,Reminder: Your event starts in 1 hour.,2/6/2024 21:18,unread,friend_request

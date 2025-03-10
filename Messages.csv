@@ -1,0 +1,61 @@
+message_id,sender_id,receiver_id,message_content,created_at,status,message_type
+1,31,36,I sent you the payment details.,2/4/2024 16:53,read,text
+2,60,16,Let's catch up this weekend!,2/2/2024 20:37,delivered,video
+3,28,39,Congrats on your new job!,2/1/2024 17:23,delivered,audio
+4,39,6,Hey! How’s your day going?,2/6/2024 7:00,deleted,audio
+5,14,34,Did you check out that new movie?,2/2/2024 1:44,deleted,video
+6,25,11,Happy Birthday! Have a great one!,2/3/2024 20:31,read,video
+7,24,34,Did you see the latest update?,2/1/2024 12:04,deleted,video
+8,9,51,Let’s plan a trip next month.,2/7/2024 16:35,delivered,image
+9,16,56,I just finished the book you recommended.,2/1/2024 19:25,deleted,video
+10,42,5,Did you check out that new movie?,2/6/2024 17:42,deleted,audio
+11,47,57,Can you send me the report?,2/7/2024 0:14,read,video
+12,20,53,Congrats on your new job!,2/6/2024 7:44,read,text
+13,24,32,Can we reschedule our call?,2/2/2024 12:03,deleted,audio
+14,55,42,Your presentation was amazing!,2/3/2024 23:40,read,audio
+15,12,24,Let’s go for coffee sometime.,2/6/2024 15:17,deleted,video
+16,25,26,Don't forget to bring the charger.,2/1/2024 11:15,delivered,image
+17,22,43,Hope you’re feeling better now.,2/7/2024 4:20,deleted,video
+18,5,9,Congrats on your new job!,2/3/2024 17:18,read,video
+19,48,38,Don't forget to bring the charger.,2/5/2024 18:20,read,text
+20,20,53,Congrats on your new job!,2/3/2024 23:37,delivered,text
+21,6,33,Happy Birthday! Have a great one!,2/4/2024 5:57,delivered,text
+22,19,41,Let’s go for coffee sometime.,2/6/2024 2:33,deleted,text
+23,46,58,Let’s go for coffee sometime.,2/1/2024 17:05,read,video
+24,50,14,Are we still on for the meeting?,2/6/2024 8:02,deleted,video
+25,7,27,I just finished the book you recommended.,2/4/2024 5:30,read,image
+26,2,51,Let’s go for coffee sometime.,2/4/2024 14:17,read,video
+27,12,51,Your presentation was amazing!,2/6/2024 8:03,deleted,image
+28,57,32,I just finished the book you recommended.,2/5/2024 12:37,deleted,video
+29,40,6,I sent you the payment details.,2/4/2024 18:08,delivered,video
+30,44,3,That game last night was crazy!,2/4/2024 10:40,read,video
+31,38,39,Can we reschedule our call?,2/2/2024 22:14,deleted,image
+32,12,2,That game last night was crazy!,2/2/2024 22:03,deleted,image
+33,46,57,Are we still on for the meeting?,2/1/2024 15:26,deleted,audio
+34,56,18,Can we reschedule our call?,2/5/2024 18:38,deleted,image
+35,45,58,Happy Birthday! Have a great one!,2/1/2024 21:42,deleted,video
+36,52,26,Did you see the latest update?,2/5/2024 23:41,deleted,text
+37,51,53,I sent you the payment details.,2/6/2024 9:02,read,audio
+38,3,28,Did you see the latest update?,2/6/2024 2:29,delivered,text
+39,12,21,Did you see the latest update?,2/1/2024 17:18,read,text
+40,14,23,Are we still on for the meeting?,2/3/2024 13:16,deleted,video
+41,34,47,Hey! How’s your day going?,2/5/2024 10:57,delivered,video
+42,46,24,Did you check out that new movie?,2/4/2024 9:29,deleted,audio
+43,48,41,I’ll call you in 10 minutes.,2/5/2024 18:05,read,image
+44,51,45,Your presentation was amazing!,2/1/2024 23:29,read,audio
+45,40,52,Are we still on for the meeting?,2/6/2024 22:45,delivered,video
+46,42,23,Happy Birthday! Have a great one!,2/8/2024 5:59,read,image
+47,28,32,Hope you’re feeling better now.,2/4/2024 17:56,read,video
+48,18,34,Did you check out that new movie?,2/6/2024 10:52,read,image
+49,14,32,Are we still on for the meeting?,2/3/2024 0:38,delivered,video
+50,18,27,That game last night was crazy!,2/5/2024 6:00,deleted,video
+51,13,16,"Check your email, I sent the details.",2/3/2024 2:35,read,video
+52,47,32,Let’s plan a trip next month.,2/2/2024 18:38,read,text
+53,54,45,Congrats on your new job!,2/3/2024 19:02,read,audio
+54,55,22,Let’s plan a trip next month.,2/3/2024 18:06,delivered,audio
+55,11,54,Let’s plan a trip next month.,2/1/2024 11:13,read,image
+56,10,43,Did you check out that new movie?,2/8/2024 4:35,read,image
+57,45,24,That game last night was crazy!,2/7/2024 13:06,delivered,text
+58,13,51,Don't forget to bring the charger.,2/1/2024 22:16,read,audio
+59,25,11,Hey! How’s your day going?,2/3/2024 2:31,deleted,audio
+60,36,13,I’ll call you in 10 minutes.,2/5/2024 6:50,deleted,image
